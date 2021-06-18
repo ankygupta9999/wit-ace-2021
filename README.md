@@ -38,7 +38,7 @@ This platform will enable producers and consumers to build and buy products in a
 
 ## The architecture
 
-![image](https://user-images.githubusercontent.com/54708512/122569463-65524a00-d068-11eb-865a-6141163cc3b5.png)
+![image](https://dw1.s81c.com/developer-static-pages/callforcode/en/get-started/climate-change/green-consumption/images/cfc-production-consumption-architecture.png)
 
 > 1.	The user interacts with a web application for the marketplace.
 > 2.	The React app communicates with the back-end APIs.
