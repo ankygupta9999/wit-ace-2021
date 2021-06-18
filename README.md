@@ -59,9 +59,9 @@ Currently less that 25% of our waste is being recycled, with the remaining being
 
 Main components of development and testing: 
 
-> 1.	[sample-react-app](./UI/) 
-> 2.	[sample-angular-app](./API/)
-> 3.	[Other-info](./Shakti.pptx/)
+> 1.	[React-UI App](./UI/) 
+> 2.	[Node API App](./API/)
+> 3.	[Presentation](./Shakti.pptx/)
 
 ## Built with
 
