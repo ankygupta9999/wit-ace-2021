@@ -27,7 +27,7 @@ Currently less that 25% of our waste is being recycled, with the remaining being
 
 ## Demo Video
 
-[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://github.com/ankygupta9999/wit-ace-2021/blob/master/Team%20SHAKTI-3-Min-Demo.mp4)
 
 ## The architecture
 
