@@ -53,7 +53,7 @@ Currently less that 25% of our waste is being recycled, with the remaining being
 
 ## Project Roadmap
 
-![image](https://ibb.co/bH8vgsc)
+![image](imagelinkhere)
 
 ## Getting Started 
 
@@ -80,4 +80,3 @@ Main components of development and testing:
 > * Gupta, Ankit 
 > * Ravi, Sandhya
 > * Mani, Mahima 
-
