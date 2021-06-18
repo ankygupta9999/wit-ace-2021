@@ -61,7 +61,7 @@ Main components of development and testing:
 
 > 1.	[sample-react-app](./UI/) 
 > 2.	[sample-angular-app](./API/)
-> 3.	[Other-info](./shakti.ppt/)
+> 3.	[Other-info](./shakti.pptx/)
 
 ## Built with
 
