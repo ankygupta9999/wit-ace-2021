@@ -1,0 +1,70 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: shakti-api-app
+  name: shakti-api-app
+  namespace: default
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: shakti-api-app
+  strategy:
+    rollingUpdate:
+      maxSurge: 25%
+      maxUnavailable: 25%
+    type: RollingUpdate
+  template:
+    metadata:
+      labels:
+        app: shakti-api-app
+    spec:
+      containers:
+        - image: ankygupta9999.jfrog.io/default-docker-virtual/shaktiapi:alpha
+          imagePullPolicy: IfNotPresent
+          name: shakti-api-app
+          ports:
+            - name: http
+              containerPort: 3000
+              protocol: TCP
+          # env:
+          #   - name: DISCOVERY_API_KEY
+          #     valueFrom:
+          #       secretKeyRef:
+          #         name: discovery-credentials
+          #         key: api-key
+          #   - name: DISCOVERY_URL
+          #     valueFrom:
+          #       secretKeyRef:
+          #         name: discovery-credentials
+          #         key: url
+            #- name: NEW_RELIC_LICENSE_KEY
+            #  valueFrom:
+            #    secretKeyRef:
+            #      name: nri-bundle-newrelic-infrastructure-config
+            #      key: license
+            #- name: NEW_RELIC_APP_NAME
+            #  value: "discovery-demo"
+      dnsPolicy: ClusterFirst
+      restartPolicy: Always
+      terminationGracePeriodSeconds: 30
+      imagePullSecrets:
+        - name: jfrog
+# ---
+# kind: Ingress
+# apiVersion: networking.k8s.io/v1
+# metadata:
+#   name: wit-demo-app-ingress
+#   namespace: default
+#   annotations:
+#     nginx.ingress.kubernetes.io/rewrite-target: /
+# spec:
+#   rules:
+#     # - host: opi-ude-claims-restapp-dev.optum.com
+#       http:
+#         paths:
+#           - pathType: ImplementationSpecific
+#             backend:
+#               serviceName: wit-demo-app
+#               servicePort: 80
