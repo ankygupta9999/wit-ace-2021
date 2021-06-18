@@ -53,7 +53,7 @@ Currently less that 25% of our waste is being recycled, with the remaining being
 
 ## Project Roadmap
 
-
+![image](https://ibb.co/bH8vgsc)
 
 ## Getting Started 
 
