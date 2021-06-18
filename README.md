@@ -1,5 +1,4 @@
-# wit-ace-2021
-WiT Ace Event 2021
+# WiT Ace Event 2021
 
 # Team Shakti
 > Contents
@@ -9,24 +8,23 @@ WiT Ace Event 2021
 > 4.	Long Description
 > 5.	Project Roadmap
 > 6.	Getting started
-> 7.	Live Demo
-> 8.	Built With
-> 9.	Contributing
-> 10.	Authors
-> 11.	License
-> 12.	Acknowledgement
+> 7.	Built With
+> 8.	Contributing
+> 9.	Authors
+> 10.	License
+> 11.	Acknowledgement
 
-### Short description
+## Short description
 
-#### What's the problem?
+### What's the problem?
 > The global material footprint rose, from 73.2 billion metric tons in 2010 to 85.9 billion metric tons in 2017, a 17.4 per cent increase since 2010 and a 66.5 per cent increase from 2000. The world’s reliance on natural resources continued to accelerate in the past two decades.
 Currently less that 25% of our waste is being recycled, with the remaining being buried or incinerated in landfills. This seems absurd when we could be reusing and/or recycling more than 70% of the waste we produce.
 
-#### How can technology help?
+### How can technology help?
 > Technology can enable buyers/manufacturers to make a more informed decision on the recycled materials they want to purchase and also at the same time, provide a space for Recycled Material suppliers and sell their Materials by sharing transparent information about the production process and carbon emission scores. 
 > This will provide a medium for suppliers to responsibly produce and sell their materials at competitive prices and also provide market insights to buyers who are looking for sustainable options as part of responsible consumption 
 
-#### The idea
+### The idea
 > Demand for recycled plastics from large brand owners and industrial buyers is increasing, driven by financial considerations, sustainability targets and customers’ desire for environmentally-friendly products
 Shakti is a B2B platform for buyers or manufacturers who can find recycled materials and for sellers, who can sell recycled materials at competitive prices. 
 > --	Buyers can look for materials by comparing between different vendors on the basis of prices, quality or product, Carbon footprint and recycling method. 
@@ -34,8 +32,13 @@ Shakti is a B2B platform for buyers or manufacturers who can find recycled mater
 > --	On the other hand, suppliers can list their materials and connect with Buyers/manufacturers at competitive prices
 This platform will enable producers and consumers to build and buy products in a sustainable way for our society, by reducing waste and increasing the use of recycled materials. 
 
+## Demo Video
 
-#### The architecture
+[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+
+## The architecture
+
+![image](https://user-images.githubusercontent.com/54708512/122569463-65524a00-d068-11eb-865a-6141163cc3b5.png)
 
 > 1.	The user interacts with a web application for the marketplace.
 > 2.	The React app communicates with the back-end APIs.
@@ -47,5 +50,3 @@ This platform will enable producers and consumers to build and buy products in a
 > 8.	A Kubernetes cluster is used for a scalable, flexible, modern containerized environment.
 > 9.	New Relic provides full stack observability and monitoring within the Kubernetes environment.
 
-
-![image](https://user-images.githubusercontent.com/54708512/122569463-65524a00-d068-11eb-865a-6141163cc3b5.png)
