@@ -53,7 +53,7 @@ Currently less that 25% of our waste is being recycled, with the remaining being
 
 ## Project Roadmap
 
-![image](imagelinkhere)
+![image](https://github.com/ankygupta9999/wit-ace-2021/blob/master/Shakti-Roadmap.jpg)
 
 ## Getting Started 
 
