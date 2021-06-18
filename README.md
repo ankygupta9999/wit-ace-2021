@@ -45,11 +45,11 @@ Currently less that 25% of our waste is being recycled, with the remaining being
 
 ## Long Description
 
-Shakti is a B2B platform for buyers or manufacturers who can find recycled materials and for sellers, who can sell recycled materials at competitive prices. 
+> Shakti is a B2B platform for buyers or manufacturers who can find recycled materials and for sellers, who can sell recycled materials at competitive prices. 
 > 1.	Buyers can look for materials by comparing between different vendors on the basis of prices, quality or product, Carbon footprint and recycling method. Our application also provides insights and recommendations using Watson Discovery to buyers which aids them in their decision making
 > 2.	Suppliers can list their materials and connect with Buyers/manufacturers at competitive prices.<br />
 
-This platform will enable producers and consumers to build and buy products in a sustainable way for our society, by reducing waste and increasing the use of recycled materials.
+> This platform will enable producers and consumers to build and buy products in a sustainable way for our society, by reducing waste and increasing the use of recycled materials.
 
 ## Project Roadmap
 
