@@ -1,6 +1,7 @@
 # WiT Ace Event 2021
 
 # Team Shakti
+
 > Contents
 > 1.	Short description
 > 2.	Demo video
@@ -9,10 +10,8 @@
 > 5.	Project Roadmap
 > 6.	Getting started
 > 7.	Built With
-> 8.	Contributing
-> 9.	Authors
-> 10.	License
-> 11.	Acknowledgement
+> 8.	Authors
+
 
 ## Short description
 
@@ -27,9 +26,9 @@ Currently less that 25% of our waste is being recycled, with the remaining being
 ### The idea
 > Demand for recycled plastics from large brand owners and industrial buyers is increasing, driven by financial considerations, sustainability targets and customers’ desire for environmentally-friendly products
 Shakti is a B2B platform for buyers or manufacturers who can find recycled materials and for sellers, who can sell recycled materials at competitive prices. 
-> --	Buyers can look for materials by comparing between different vendors on the basis of prices, quality or product, Carbon footprint and recycling method. 
-> --	Our application also provides insights and recommendations using Watson Discovery to buyers which aids them in their decision making
-> --	On the other hand, suppliers can list their materials and connect with Buyers/manufacturers at competitive prices
+> 1.	Buyers can look for materials by comparing between different vendors on the basis of prices, quality or product, Carbon footprint and recycling method. Our application also provides insights and recommendations using Watson Discovery to buyers which aids them in their decision making
+> 2.	Suppliers can list their materials and connect with Buyers/manufacturers at competitive prices. 
+
 This platform will enable producers and consumers to build and buy products in a sustainable way for our society, by reducing waste and increasing the use of recycled materials. 
 
 ## Demo Video
@@ -38,7 +37,7 @@ This platform will enable producers and consumers to build and buy products in a
 
 ## The architecture
 
-![image](https://dw1.s81c.com/developer-static-pages/callforcode/en/get-started/climate-change/green-consumption/images/cfc-production-consumption-architecture.png)
+![image](https://camo.githubusercontent.com/2e38d2ec4d7db2226bdba6a60b8bb417b4b71f5d32e63dec82cabc2d5dc6aa93/68747470733a2f2f6477312e733831632e636f6d2f646576656c6f7065722d7374617469632d70616765732f63616c6c666f72636f64652f656e2f6765742d737461727465642f636c696d6174652d6368616e67652f677265656e2d636f6e73756d7074696f6e2f696d616765732f6366632d70726f64756374696f6e2d636f6e73756d7074696f6e2d6172636869746563747572652e706e67)
 
 > 1.	The user interacts with a web application for the marketplace.
 > 2.	The React app communicates with the back-end APIs.
@@ -49,4 +48,43 @@ This platform will enable producers and consumers to build and buy products in a
 > 7.	The back end stores and retrieves information on material that is provided by users in an IBM Cloudant NoSQL database.
 > 8.	A Kubernetes cluster is used for a scalable, flexible, modern containerized environment.
 > 9.	New Relic provides full stack observability and monitoring within the Kubernetes environment.
+
+## Long Description
+
+Shakti is a B2B platform for buyers or manufacturers who can find recycled materials and for sellers, who can sell recycled materials at competitive prices. 
+> --	Buyers can look for materials by comparing between different vendors on the basis of prices, quality or product, Carbon footprint and recycling method. 
+> --	Our application also provides insights and recommendations using Watson Discovery to buyers which aids them in their decision making
+> --	On the other hand, suppliers can list their materials and connect with Buyers/manufacturers at competitive prices
+This platform will enable producers and consumers to build and buy products in a sustainable way for our society, by reducing waste and increasing the use of recycled materials.
+
+## Project Roadmap
+
+
+
+## Getting Started 
+
+Main components of development and testing: 
+
+> 1.	[sample-react-app](./UI/) 
+> 2.	[sample-angular-app](./API/)
+> 3.	[Other-info](./shakti.ppt/)
+
+## Built with
+
+> 1.	React App : an open-source front-end JavaScript library for building user interfaces or UI components
+> 2.	Watson Discovery : AI-powered intelligent search and text-​analytics platform
+> 3.	Node.JS : JavaScript runtime built
+> 4.	Cloudant : a scalable, distributed cloud database
+> 5.	New Relic : cloud-based observability platform
+> 6.	Kubernetes : an open-source container orchestration platform
+
+## Authors
+
+* Joshi, Bhagyashree
+* Dey, Bapi
+* Vadhera, Puneet
+* Gupta, Ankit 
+* Ravi, Sandhya
+* Mani, Mahima 
+
 
