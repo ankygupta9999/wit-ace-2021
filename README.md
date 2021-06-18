@@ -24,9 +24,9 @@ Currently less that 25% of our waste is being recycled, with the remaining being
 > This will provide a medium for suppliers to responsibly produce and sell their materials at competitive prices and also provide market insights to buyers who are looking for sustainable options as part of responsible consumption 
 
 #### The idea
-> Demand for recycled plastics from large brand owners and industrial buyers is increasing, driven by financial considerations, sustainability targets and customers’ desire for environmentally-friendly products.<br />
+> Demand for recycled plastics from large brand owners and industrial buyers is increasing, driven by financial considerations, sustainability targets and customers’ desire for environmentally-friendly products. <br />
 <br />
-Shakti is a B2B platform for buyers or manufacturers who can find recycled materials and for sellers, who can sell recycled materials at competitive prices.  Our application also provides insights and recommendations using Watson Discovery to buyers which aids them in their decision making. This platform will enable producers and consumers to build and buy products in a sustainable way for our society, by reducing waste and increasing the use of recycled materials. 
+> Shakti is a B2B platform for buyers or manufacturers who can find recycled materials and for sellers, who can sell recycled materials at competitive prices.  Our application also provides insights and recommendations using Watson Discovery to buyers which aids them in their decision making. This platform will enable producers and consumers to build and buy products in a sustainable way for our society, by reducing waste and increasing the use of recycled materials. 
 
 ### Demo Video
 
